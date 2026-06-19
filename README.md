@@ -107,6 +107,4 @@ Random Forest was selected as the preferred model because it achieved a better b
 
 ## Author
 
-Harsh Gupta
-
-Data Science Internship Project – DecodeLabs
+Harsh Gupta Submitted as part of DecodeLabs Data Science Internship Program.
